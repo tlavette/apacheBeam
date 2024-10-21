@@ -12,7 +12,9 @@ Apache Beam Features <br>
 Google Colab: https://colab.research.google.com/drive/157zJ9NM0laJfLm8OQ0xLmj-SMn7ozamz?usp=sharing <br>
 
 Youtube: <br>
+D3.js visualizations <br>
 https://youtu.be/-DNYfDXJwag
 
-
+Using Auto EDA with Pandas Profiler demonstrate composite transform, pipeline io, triggers etc.
+https://youtu.be/0q5OZZDVfGs
 
